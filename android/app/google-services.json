@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822232745724",
+    "project_id": "buddygo-b97b7",
+    "storage_bucket": "buddygo-b97b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822232745724:android:72527f9343a32f694e7979",
+        "android_client_info": {
+          "package_name": "com.example.aroundu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabCv2y6WSwY_dkq2RaVbfXRSFb7E2yxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822232745724:android:0ad527dc0ffb18e44e7979",
+        "android_client_info": {
+          "package_name": "com.example.buddygo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabCv2y6WSwY_dkq2RaVbfXRSFb7E2yxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
