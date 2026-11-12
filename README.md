@@ -1,16 +1,9 @@
 # aroundu
 
-A new Flutter project.
+a flutter project , it is a mobile app where user can chat and connect with the nearby 5km active user 
 
-## Getting Started
+## workflow
 
-This project is a starting point for a Flutter application.
+User creates an account via google auth or mobile number -> then it shows the active users nearby -> you can connect them via clicking on them -> you can chat with them inn your chat section
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- THANKS ~
